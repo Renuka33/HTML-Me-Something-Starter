@@ -1,1 +1,53 @@
 /* Write your CSS here! */
+h1 {
+    color: rgb(255, 0, 0)
+}
+h2{
+    color: rgb(255, 0, 157);
+    font-size: xx-large;
+}
+h3{
+    color: rgb(255, 0, 157);
+    font-size: xx-large;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+div{
+    color: darkblue;
+    text-decoration: double;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-weight: bold;
+    font-size: xx-large;
+
+    
+}
+p {
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: green;
+  font-size: x-large;
+
+    background-color: sky rgb(0, 0, 255);
+  }
+
+  div {
+      text-align: center;
+    padding: 25px 50px 75px 100px;
+    
+  }
+  p.london{
+    background-color: rgb(79, 128, 0);
+   
+  }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 800px;
+}
